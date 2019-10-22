@@ -1,0 +1,15 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "A chat application using socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ata Leonard Tangban",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  }
+}
